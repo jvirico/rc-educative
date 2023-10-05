@@ -1,2 +1,2 @@
 # Educative
-Some place to practive conding skills in Python.
+Some place to practice Kubernetes, coding skills in Python...
